@@ -1,0 +1,11 @@
+{
+    "version":  "0.1.1",
+    "news":  "Fatih 1453 playtest gÃ¼ncelleme sistemi aÃ§Ä±ldÄ±.",
+    "notes":  "Bordo-altÄ±n launcher, otomatik sÃ¼rÃ¼m kontrolÃ¼ ve gÃ¼ncelleme.",
+    "playtestOpen":  true,
+    "fullUrl":  "https://github.com/LORDASTONGG/fatih1453-updates/releases/download/v0.1.1/Fatih1453-full-v0.1.1.zip",
+    "fullSha256":  "743791da4da8b0cecbd570da4ee806a4f67ff954093174d59ddec0bdfdbfb016",
+    "patchFrom":  "",
+    "patchUrl":  "",
+    "patchSha256":  ""
+}
