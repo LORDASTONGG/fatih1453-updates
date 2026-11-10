@@ -1,7 +1,7 @@
 {
     "version":  "0.1.2",
-    "news":  "Launcher ve otomatik gÃ¼ncelleme gÃ¼venilirliÄŸi iyileÅŸtirildi.",
-    "notes":  "GitHub baÄŸlantÄ± zaman aÅŸÄ±mÄ±nda otomatik yeniden deneme, yarÄ±m kalan yayÄ±nÄ± sÃ¼rdÃ¼rme ve yeni sÃ¼rÃ¼m kontrolÃ¼ eklendi.",
+    "news":  "Launcher ve otomatik güncelleme güvenilirliği iyileştirildi.",
+    "notes":  "GitHub bağlantı zaman aşımında otomatik yeniden deneme, yarım kalan yayını sürdürme ve yeni sürüm kontrolü eklendi.",
     "playtestOpen":  true,
     "fullUrl":  "https://github.com/LORDASTONGG/fatih1453-updates/releases/download/v0.1.2/Fatih1453-full-v0.1.2.zip",
     "fullSha256":  "1ac7bd14c4e4209b3ab91703492575bfe1f371f747a65e12cb25c9a04448d8ac",
