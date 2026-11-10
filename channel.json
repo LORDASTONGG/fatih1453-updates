@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.3",
-    "news":  "Yeni pencereli launcher hazır. Güncellemeleri kontrol edip OYNA ile sefere katıl.",
-    "notes":  "Oyun öncesinde ayrı Windows launcher açılır. Türkçe haberler ve sürüm notları düzgün gösterilir. Güncelleme mevcut oyunculara otomatik uygulanır.",
+    "version":  "0.1.4",
+    "news":  "Sefer başlatıcısının görünümü yenilendi.",
+    "notes":  "Windows launcher bordo-altın başlık, daha temiz paneller ve parıltılı butonlarla yenilendi. Oyun sistemi değişmedi.",
     "playtestOpen":  true,
-    "fullUrl":  "https://github.com/LORDASTONGG/fatih1453-updates/releases/download/v0.1.3/Fatih1453-full-v0.1.3.zip",
-    "fullSha256":  "a39c454f7b8352f4d692703a9f84ae47560522641b5f69097e18d854580bebd5",
-    "patchFrom":  "0.1.2",
-    "patchUrl":  "https://github.com/LORDASTONGG/fatih1453-updates/releases/download/v0.1.3/Fatih1453-patch-v0.1.3.zip",
-    "patchSha256":  "81e45388e7ad7fe8c988570a13d629f49b56c24cc21d12498b98a4a83446e295"
+    "fullUrl":  "https://github.com/LORDASTONGG/fatih1453-updates/releases/download/v0.1.4/Fatih1453-full-v0.1.4.zip",
+    "fullSha256":  "9e338e9d18018f4269efc8d975aa16216ab70500a85704ee2b6425419b5a7801",
+    "patchFrom":  "0.1.3",
+    "patchUrl":  "https://github.com/LORDASTONGG/fatih1453-updates/releases/download/v0.1.4/Fatih1453-patch-v0.1.4.zip",
+    "patchSha256":  "606f42922106202ec33e2a438553c61f29503a0ef943541d6f4d2aed503e64db"
 }
