@@ -1,12 +1,12 @@
 {
-    "version":  "0.1.13",
-    "news":  "PLAYTEST YAKINDA !",
-    "notes":  "HARİKA VURUŞ SESLERİ AKTİF",
+    "version":  "0.1.14",
+    "news":  "Loading Screen - Cursor - Vuruş Sesleri",
+    "notes":  "TIKLA ÖĞREN",
     "events":  "Yaklaşan etkinlikler burada duyurulacak.",
     "playtestOpen":  true,
-    "fullUrl":  "https://github.com/LORDASTONGG/fatih1453-updates/releases/download/v0.1.13/Fatih1453-full-v0.1.13.zip",
-    "fullSha256":  "eeb075ee0153e4dc7de81f8235967905dcde712d0d5b3b4cdef818a2af2cfcf4",
-    "patchFrom":  "0.1.12",
-    "patchUrl":  "https://github.com/LORDASTONGG/fatih1453-updates/releases/download/v0.1.13/Fatih1453-patch-v0.1.13.zip",
-    "patchSha256":  "4be84d1930f149300357ce56302950a4b7948849a9597fd39fbd1ded9fb93a84"
+    "fullUrl":  "https://github.com/LORDASTONGG/fatih1453-updates/releases/download/v0.1.14/Fatih1453-full-v0.1.14.zip",
+    "fullSha256":  "8ddfe6cc8ba7c8e77de5dcce9943f7cb16776bd41825ecbe1fe47f8b5381dd27",
+    "patchFrom":  "0.1.13",
+    "patchUrl":  "https://github.com/LORDASTONGG/fatih1453-updates/releases/download/v0.1.14/Fatih1453-patch-v0.1.14.zip",
+    "patchSha256":  "5138fe08337886adffdb3b6d763dd760db8c388c9d359345134f0593e9560f98"
 }
