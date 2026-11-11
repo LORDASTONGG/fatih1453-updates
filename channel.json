@@ -1,11 +1,12 @@
 {
-  "version": "0.1.6",
-  "news": "Yeni Osmanlı temalı başlatıcı hazır. Oyuna Başla ile sefere katıl.",
-  "notes": "Başlatıcı artık çerçevesiz ve kendi kapatma/küçültme düğmeleriyle açılır. Haberler, sürüm durumu ve otomatik güncelleme korunur.",
+  "version": "0.1.7",
+  "news": "Yeni başlatıcı arayüzü ve kesintisiz güncelleme hazır.",
+  "notes": "Görsel slaytlar, etkinlik ve haber sekmeleri eklendi. Güncelleme tamamlanınca OYUNA BAŞLA aynı pencerede açılır.",
+  "events": "Etkinlik duyuruları burada yayınlanacak.",
   "playtestOpen": true,
-  "fullUrl": "https://github.com/LORDASTONGG/fatih1453-updates/releases/download/v0.1.6/Fatih1453-full-v0.1.6.zip",
-  "fullSha256": "6d0d4265288be32ad82c2ad810379e3f7ee929ca7ee55f7d1ffd7e452d95ad29",
-  "patchFrom": "0.1.5",
-  "patchUrl": "https://github.com/LORDASTONGG/fatih1453-updates/releases/download/v0.1.6/Fatih1453-patch-v0.1.6.zip",
-  "patchSha256": "3330023f911a42c869a257ca58a2b706e20f7c5a4cf4290eebf0e8312f6cb923"
+  "fullUrl": "https://github.com/LORDASTONGG/fatih1453-updates/releases/download/v0.1.7/Fatih1453-full-v0.1.7.zip",
+  "fullSha256": "78e17e88c4fa5c614a2479fe14af17ebc857982ab7f027a631c058f1ce9d96e8",
+  "patchFrom": "0.1.6",
+  "patchUrl": "https://github.com/LORDASTONGG/fatih1453-updates/releases/download/v0.1.7/Fatih1453-patch-v0.1.7.zip",
+  "patchSha256": "31eff78e2cc9894181fde0e16bb8d6e27afe761053b1b03956e28fee487e2a19"
 }
