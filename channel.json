@@ -1,12 +1,12 @@
 {
-  "version": "0.1.8",
-  "news": "Başlatıcıya Fatih arması, gelişmiş buton vurguları ve açılır duyurular eklendi.",
-  "notes": "Görselleri sağ/sol oklarla değiştirebilirsin. Etkinlikler ve Haberler ayrı pencerede açılır. Oyun dosyaları aynı sürümde korunur.",
-  "events": "Yeni etkinlikler bu bölümde duyurulacak.",
-  "playtestOpen": true,
-  "fullUrl": "https://github.com/LORDASTONGG/fatih1453-updates/releases/download/v0.1.8/Fatih1453-full-v0.1.8.zip",
-  "fullSha256": "16791303c86f67ab61e05e9a18069e897ef9152b3191fadcb6797e11a0c0d25a",
-  "patchFrom": "0.1.7",
-  "patchUrl": "https://github.com/LORDASTONGG/fatih1453-updates/releases/download/v0.1.8/Fatih1453-patch-v0.1.8.zip",
-  "patchSha256": "85b4fd6d76735f5dcf7bfbd4edd5f960690c30afffa2158a25c0e9fa561626b6"
+    "version":  "0.1.9",
+    "news":  "Test launcher haberi",
+    "notes":  "Yeni launcher görünümü.",
+    "events":  "* Etkinlikler yakında geliyor Playteste hazır olun. ",
+    "playtestOpen":  false,
+    "fullUrl":  "https://github.com/LORDASTONGG/fatih1453-updates/releases/download/v0.1.9/Fatih1453-full-v0.1.9.zip",
+    "fullSha256":  "2f993bd1b14eb344e56156d0bf70d7874d006ac420235900f0ac5942c436f838",
+    "patchFrom":  "0.1.8",
+    "patchUrl":  "https://github.com/LORDASTONGG/fatih1453-updates/releases/download/v0.1.9/Fatih1453-patch-v0.1.9.zip",
+    "patchSha256":  "7424b997d3a793c5d7ee3bcb2ea9efcc73d02648dc45b534a887ab3bb3a7c27b"
 }
