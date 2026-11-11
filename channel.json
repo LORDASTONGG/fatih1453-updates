@@ -1,12 +1,12 @@
 {
-  "version": "0.1.7",
-  "news": "Yeni başlatıcı arayüzü ve kesintisiz güncelleme hazır.",
-  "notes": "Görsel slaytlar, etkinlik ve haber sekmeleri eklendi. Güncelleme tamamlanınca OYUNA BAŞLA aynı pencerede açılır.",
-  "events": "Etkinlik duyuruları burada yayınlanacak.",
+  "version": "0.1.8",
+  "news": "Başlatıcıya Fatih arması, gelişmiş buton vurguları ve açılır duyurular eklendi.",
+  "notes": "Görselleri sağ/sol oklarla değiştirebilirsin. Etkinlikler ve Haberler ayrı pencerede açılır. Oyun dosyaları aynı sürümde korunur.",
+  "events": "Yeni etkinlikler bu bölümde duyurulacak.",
   "playtestOpen": true,
-  "fullUrl": "https://github.com/LORDASTONGG/fatih1453-updates/releases/download/v0.1.7/Fatih1453-full-v0.1.7.zip",
-  "fullSha256": "78e17e88c4fa5c614a2479fe14af17ebc857982ab7f027a631c058f1ce9d96e8",
-  "patchFrom": "0.1.6",
-  "patchUrl": "https://github.com/LORDASTONGG/fatih1453-updates/releases/download/v0.1.7/Fatih1453-patch-v0.1.7.zip",
-  "patchSha256": "31eff78e2cc9894181fde0e16bb8d6e27afe761053b1b03956e28fee487e2a19"
+  "fullUrl": "https://github.com/LORDASTONGG/fatih1453-updates/releases/download/v0.1.8/Fatih1453-full-v0.1.8.zip",
+  "fullSha256": "16791303c86f67ab61e05e9a18069e897ef9152b3191fadcb6797e11a0c0d25a",
+  "patchFrom": "0.1.7",
+  "patchUrl": "https://github.com/LORDASTONGG/fatih1453-updates/releases/download/v0.1.8/Fatih1453-patch-v0.1.8.zip",
+  "patchSha256": "85b4fd6d76735f5dcf7bfbd4edd5f960690c30afffa2158a25c0e9fa561626b6"
 }
