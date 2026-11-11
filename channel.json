@@ -1,12 +1,12 @@
 {
-    "version":  "0.0.1",
-    "news":  "Playtest Öncesi Güncellemeler",
-    "notes":  "TIKLA VE GÖR",
-    "events":  "Yaklaşan etkinlikler burada duyurulacak.",
-    "playtestOpen":  true,
-    "fullUrl":  "https://github.com/LORDASTONGG/fatih1453-updates/releases/download/v0.0.1/Fatih1453-full-v0.0.1.zip",
-    "fullSha256":  "58a744b26d482d6b80ae21c0862b11e5193f67c567ccd7755b8b7c53d8af91af",
-    "patchFrom":  "0.1.9",
-    "patchUrl":  "https://github.com/LORDASTONGG/fatih1453-updates/releases/download/v0.0.1/Fatih1453-patch-v0.0.1.zip",
-    "patchSha256":  "4bd6398013959b4397694bcbeb19aaf206b6be32fe27297f16b85143f060d272"
+  "version": "0.1.10",
+  "news": "Başlatıcı görselleri ve duyurular yenilendi.",
+  "notes": "Seçilen görseller tam ve seçilen sayıda gösterilir. Playtest kapalıyken güncelleme yapılabilir; güncel oyunda KAPALI görünür. Discord bağlantısı eklendi.",
+  "events": "Yaklaşan etkinlikler burada duyurulacak.",
+  "playtestOpen": true,
+  "fullUrl": "https://github.com/LORDASTONGG/fatih1453-updates/releases/download/v0.1.10/Fatih1453-full-v0.1.10.zip",
+  "fullSha256": "d174d92101ec9b570cfe4a793912d362c2880b44415e7377fbbcabb14e9a003c",
+  "patchFrom": "0.0.1",
+  "patchUrl": "https://github.com/LORDASTONGG/fatih1453-updates/releases/download/v0.1.10/Fatih1453-patch-v0.1.10.zip",
+  "patchSha256": "c5b290495017fc1a38726bd058970eac8e6c2c6a8e912c8baa140cc963e15d34"
 }
