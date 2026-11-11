@@ -1,12 +1,12 @@
 {
-    "version":  "0.1.11",
-    "news":  "PLAY TEST HAZIRLIKLARI",
-    "notes":  "PLAYTEST ÇOK YAKINDA",
+    "version":  "0.1.12",
+    "news":  "Test Güncelleme\t",
+    "notes":  "Playtest güncellemesi",
     "events":  "Yaklaşan etkinlikler burada duyurulacak.",
-    "playtestOpen":  false,
-    "fullUrl":  "https://github.com/LORDASTONGG/fatih1453-updates/releases/download/v0.1.11/Fatih1453-full-v0.1.11.zip",
-    "fullSha256":  "ec64896f6c0b40365017c3f0ea7611f61bf3f43b7429b40f409adecbc9a36da6",
-    "patchFrom":  "0.1.10",
-    "patchUrl":  "https://github.com/LORDASTONGG/fatih1453-updates/releases/download/v0.1.11/Fatih1453-patch-v0.1.11.zip",
-    "patchSha256":  "259e50236b801669fea273a06304bab3df22d21d1484589d4732af43d10c5667"
+    "playtestOpen":  true,
+    "fullUrl":  "https://github.com/LORDASTONGG/fatih1453-updates/releases/download/v0.1.12/Fatih1453-full-v0.1.12.zip",
+    "fullSha256":  "48dc3c13d91c86cb0e10f81aba7db92b78cd5f9e35e39af88df8df40513f4eaf",
+    "patchFrom":  "0.1.11",
+    "patchUrl":  "https://github.com/LORDASTONGG/fatih1453-updates/releases/download/v0.1.12/Fatih1453-patch-v0.1.12.zip",
+    "patchSha256":  "20fd496adcdfca972a766e288865688bff0666f729ac19851f1d4b6a81c4e1e6"
 }
