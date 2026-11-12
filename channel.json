@@ -1,12 +1,12 @@
 {
-    "version":  "0.1.15",
-    "news":  "BACKGROUND - İMLEÇ - VURUŞ EFEKTLERİ",
-    "notes":  "TIKLA VE GÖR",
+    "version":  "0.1.16",
+    "news":  "GELİŞMELER İŞTE LOO",
+    "notes":  "TIKLA GÖR",
     "events":  "Yaklaşan etkinlikler burada duyurulacak.",
     "playtestOpen":  true,
-    "fullUrl":  "https://github.com/LORDASTONGG/fatih1453-updates/releases/download/v0.1.15/Fatih1453-full-v0.1.15.zip",
-    "fullSha256":  "b75cc9451a087a4c2668f848c80474df88b55619ab1bccdf69a20f021ebc970b",
-    "patchFrom":  "0.1.14",
-    "patchUrl":  "https://github.com/LORDASTONGG/fatih1453-updates/releases/download/v0.1.15/Fatih1453-patch-v0.1.15.zip",
-    "patchSha256":  "8cedbd51df5fa5ca53dab76b17ae075e698a5a2e5e45443766f676be44304da0"
+    "fullUrl":  "https://github.com/LORDASTONGG/fatih1453-updates/releases/download/v0.1.16/Fatih1453-full-v0.1.16.zip",
+    "fullSha256":  "a1c7d30c0472b56be74bc220a4e59702054c347bbd580cc47dacddc94c5440ea",
+    "patchFrom":  "0.1.15",
+    "patchUrl":  "https://github.com/LORDASTONGG/fatih1453-updates/releases/download/v0.1.16/Fatih1453-patch-v0.1.16.zip",
+    "patchSha256":  "69f00aaafcc5f3016bf2f6306ffc2ee7ef866d155b59f0aa5efb364279651857"
 }
