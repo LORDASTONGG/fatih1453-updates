@@ -1,12 +1,12 @@
 {
-    "version":  "0.1.27",
+    "version":  "0.1.28",
     "news":  "Yeni Fatih 1453 playtest sürümü hazır.",
     "notes":  "Düzeltmeler ve iyileştirmeler.",
     "events":  "Yaklaşan etkinlikler burada duyurulacak.",
     "playtestOpen":  true,
-    "fullUrl":  "https://github.com/LORDASTONGG/fatih1453-updates/releases/download/v0.1.27/Fatih1453-full-v0.1.27.zip",
-    "fullSha256":  "c9d9780134b489e0f5cc404af72f2e1df72036f1e2549d5d4a0c150cbef8a2ef",
-    "patchFrom":  "0.1.26",
-    "patchUrl":  "https://github.com/LORDASTONGG/fatih1453-updates/releases/download/v0.1.27/Fatih1453-patch-v0.1.27.zip",
-    "patchSha256":  "4eef68ada0d12cdcd4e190f4cb6f3e71abda95fecc55e67622722acc87d49e96"
+    "fullUrl":  "https://github.com/LORDASTONGG/fatih1453-updates/releases/download/v0.1.28/Fatih1453-full-v0.1.28.zip",
+    "fullSha256":  "a5ca80bf35bbdc4bdc8f939e6fd0986b2eb2d3e93fc5393b4c70bff56ee1f8f1",
+    "patchFrom":  "0.1.27",
+    "patchUrl":  "https://github.com/LORDASTONGG/fatih1453-updates/releases/download/v0.1.28/Fatih1453-patch-v0.1.28.zip",
+    "patchSha256":  "cf006aa3912807dea215464f7d891c810843ff8328ff9595523c25b6ee0f6541"
 }
